@@ -48,3 +48,24 @@ public class SILab2 {
 
 
 [controlflowgraph](controlflowgraph.png)
+
+3. Ciklonatskata kompleksnost ja dobiv so broenje na regionite. koi ispadnaa da bidat 11.
+
+4. Vkupno ima 5 slucaevi. 
+- Koga imame ist mail i razlicen username vo allUsers so sporedba so user.
+- Koga user e null.
+- Koga nite eden od mejlovite i username se sovpagjaat so toj od user.
+- Koga imame specialCharacter vo user.password.
+-Koga nemame specialCharacter vo user.password.
+Ima greshka vo kodot. grankite 3-4 i 4-7. nema mikogash da se izvrshat. bidejki pred niv ima throw uslov. 
+5. Multiple Condition za: p, q, r
+
+p	q	r	result
+T	T	T	when p is T. result is T
+T	T	N	
+T	N	T
+T	N	N
+N	T	T	when p is N, but q is T. result is T
+N	T	N
+N	N	T	when both p and q are N. result is r
+N	N	N
