@@ -46,4 +46,4 @@ public class SILab2 {
 
 }
 
-[!cfg](controlflowgraph.png)
+
