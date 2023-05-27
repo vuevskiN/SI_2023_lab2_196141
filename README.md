@@ -47,7 +47,7 @@ public class SILab2 {
 }
 
 
-[controlflowgraph](controlflowgraph.png)
+[controlflowgraph](cfGraph.png)
 
 3. Ciklonatskata kompleksnost ja dobiv so broenje na regionite. koi ispadnaa da bidat 11.
 
