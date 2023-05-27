@@ -47,3 +47,4 @@ public class SILab2 {
 }
 
 
+[controlflowgraph](controlflowgraph.png)
