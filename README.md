@@ -60,6 +60,7 @@ public class SILab2 {
 Ima greshka vo kodot. grankite 3-4 i 4-7. nema mikogash da se izvrshat. bidejki pred niv ima throw uslov. 
 5. Multiple Condition za: p, q, r
 
-when p is T. result is T
-when p is N but q is T. result is T
-when both p and q are N. result is r
+when p is T result is T.
+when p is N but q is T result is T.
+when both p and q are N. result is r. so this is countable as 2 answers.
+so in conclusion we need 4 test cases.
