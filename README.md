@@ -51,7 +51,7 @@ public class SILab2 {
 
 3. Ciklonatskata kompleksnost ja dobiv so broenje na regionite. koi ispadnaa da bidat 11.
 
-4. Vkupno ima 5 slucaevi. 
+4. Vkupno ima 4 slucaevi. 
 - Koga imame ist mail i razlicen username vo allUsers so sporedba so user.
 - Koga user e null.
 - Koga nite eden od mejlovite i username se sovpagjaat so toj od user.
